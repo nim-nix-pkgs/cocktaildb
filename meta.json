@@ -2,72 +2,13 @@
   "name": "cocktaildb",
   "url": "https://github.com/thechampagne/cocktaildb-nim",
   "method": "git",
-  "tags": [
-    {
-      "name": "cocktaildb",
-      "version": "1.0.0",
-      "author": "XXIV",
-      "desc": "TheCocktailDB API client",
-      "license": "Apache-2.0",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.6.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/tags/v1.0.0"
-    }
-  ],
+  "tags": [],
   "description": "TheCocktailDB API client",
   "license": "Apache-2.0",
   "web": "https://github.com/thechampagne/cocktaildb-nim",
   "refs": [
-    "refs/heads/main",
-    "refs/tags/v1.0.0",
+    "fatal: unable to access 'https://github.com/thechampagne/cocktaildb-nim/': Failed to connect to github.com port 443 after 130671 ms: Connection timed out",
     ""
   ],
-  "heads": [
-    {
-      "name": "cocktaildb",
-      "version": "1.0.0",
-      "author": "XXIV",
-      "desc": "TheCocktailDB API client",
-      "license": "Apache-2.0",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.6.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/main"
-    }
-  ]
+  "heads": []
 }
